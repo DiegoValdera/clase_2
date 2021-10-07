@@ -1,0 +1,38 @@
+body{
+  padding: 10px;
+}
+/* TITULO DE LA PAGINA */
+
+h1{
+width: 394px;
+height: 32px;
+left: 30px;
+top: 31px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 39px;
+
+color: #2400FF;}
+
+p{
+  border: solid 2px rgb(248, 179, 29);
+  padding: 10px;
+}
+
+li{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+img{
+  margin: 10px;
+}
+
+
+li{
+  list-style-image: url('../images/check.jpeg');
+
+}
