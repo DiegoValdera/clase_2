@@ -1,0 +1,24 @@
+------------------------------------------
+//COMANDO LOCALES
+git init    --> para iniciar git 
+git add .   --> guardar en la memoria
+git commit -m "nombre"  --> para versionar
+
+git checkout -b nombre_rama         --> para crear rama
+git checkout nombre_rama"           --> para localizar rama
+git branch -a       --> para ver todas las ramas
+git branch -d nombre_rama   --> para eliminar rama local
+git fetch -prune        --> elimina ramas remotas
+
+-------------------------------------------
+//COMANDO REMOTO
+git remote add origin https://         --> para anexar al repositorio REMOTO
+git remote -v                          --> para ver si hay conexion remota
+git push origin nombre_rama            --> subir archivos a la rama remota
+git push origin --delete nombre_rama   --> eliminar rama remota
+git pull origin nombre_rama            --> traer archivos de una rama remota
+
+-------------------------------------------
+//SUBIENDO ARCHIVOS AL REPOSITORIO REMOTO
+
+
