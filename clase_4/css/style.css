@@ -1,0 +1,211 @@
+body{
+    color: #fff;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #00AAB5;
+    text-align: center;
+    padding: 20px;
+}
+header a{
+    color: white;
+}
+h1{
+    font-size: 64px;
+}
+h2{
+    text-align: center;
+}
+
+header .header-logo{
+    font-size: 64px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: block;
+
+    
+}
+li{
+    display: block;
+    float: right;
+    margin: 5px;
+}
+
+
+
+.fondo1{
+    background-color: #7299FE;
+    padding-top: 20px;
+}
+.fondo1 h2{
+    font-size: 16px;
+}
+
+.margen1{
+    margin: 25px;
+    padding-bottom: 70px;
+}
+
+.skill{
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 45%; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    
+}
+
+.fondo2{
+    background-color: #FB7171;
+    margin: 0;
+}
+
+.margen2{
+    margin: 25px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.bloque1{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+}
+
+
+.fondo3{
+    background-color: #FFD233;
+    margin: 0;
+}
+.margen3{
+    margin: 25px;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.blq{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    margin: 5px;
+}
+
+
+
+.fondo4{
+    background-color: #3F4E62;
+    margin: 0;
+}
+.margen4{
+    margin-top: 25px;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.client{
+    display: inline-block;
+    margin: 2px;
+}
+
+
+.fondo5{
+    background-color: #16A085;
+    margin: 0;
+    margin-top: 0;
+    
+}
+
+
+footer{
+    background-color: #00AAB5;
+    height: 80PX;
+    margin-top: 0;
+}
+
+h6{
+
+}
+
+.nom{
+    background: rgba(114, 153, 254, 0.5);
+    position: absolute;
+    width: 365px;
+    height: 117px;
+    left: 51px;
+    top: 417px;
+    font-size: 36px;
+    padding-top: 15px;
+}
+
+.blanco{
+    background-color: #fff;
+    width: 100%;
+    height: 13px;
+
+}
+
+.negro{
+    background-color: #000;
+    width: 75%;
+    color: #000;
+    height: 13px;
+}
+
+
+.margen5{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 70px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input{
+    padding: 15px;
+    font-size: 14px;
+    width: 30%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+textarea{
+    padding: 15px;
+    font-size: 14px;
+    max-width: 65%;
+    width: 65%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+button{
+    padding: 15px;
+    font-size: 14px;
+    width: 15%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    background-color: #233451;
+    color: #fff;
+}
+
+
+.content{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+}
+
+.izq{
+    float: left;
+}
+.der{
+    display: block;
+    float: right;
+    text-align: center;
+}
