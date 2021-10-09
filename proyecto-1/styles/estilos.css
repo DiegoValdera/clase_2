@@ -1,0 +1,242 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+
+header{
+    background-color:#00AF1C ;
+    height: 60px;
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: 50px;
+    position: fixed;
+    width: 97%;
+    
+}
+header .logo h1{
+    color: #fff;
+    font-size: 32px;
+    display:block;
+    float: left;
+    margin-top: 5px;
+}
+
+header nav ul li{
+    display:block;
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px; 
+}
+
+header a{
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+main{
+    padding-top: 100px;
+}
+
+
+.home{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.home h2 a{
+    color: #3B06D2 ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.home h2{
+    margin-bottom: 10px;
+}
+p{
+    font-size: 14px;
+    padding-bottom: 25px;
+    text-align: justify;
+    padding-right: 20px;
+    line-height:20px;
+}
+
+.servicio{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.servicio h2{
+    margin-bottom: 10px;
+}
+
+.servicio h2 a{
+    color: #D206B2 ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.servicio ul{
+    margin-top: 40px;
+}
+.servicio ul li{
+    list-style:inside;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.s1{
+    color:rgb(248, 80, 29) ;
+}
+
+.s2{
+    color:#3B06D2 ;
+}
+
+.s3{
+    color: rgb(216, 146, 15) ;
+
+}
+
+.s4{
+    color:rgb(4, 231, 231) ;
+ 
+}
+.p1{
+    color:#ddb00b;
+ 
+}
+.p2{
+    color:#d87f0b;
+ 
+}
+.p3{
+    color:#0a49be;
+ 
+}
+.p4{
+    color:#80ae00;
+ 
+}
+
+
+.portafolio{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.portafolio h2{
+    margin-bottom: 10px;
+}
+
+.portafolio h2 a{
+    color: #AAD206 ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.portafolio ul{
+    margin-top: 40px;
+}
+.portafolio ul li{
+    list-style:inside;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.contacto{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.contacto h2{
+    margin-bottom: 10px;
+}
+
+.contacto h2 a{
+    color: #06D2C6 ;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+textarea{
+    width: 100%;
+    padding-left: 15px;
+    padding-top: 20px;
+    max-height: 150px;
+    min-height: 100px;
+    height: 100px;
+    min-width: 100%;
+    max-width: 100%;
+}
+button{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #22A900 ;
+    background-color: #fff;
+    border-radius: 5px;
+    border:solid 1px #22A900 ;
+}
+.formulario{
+    margin-right: 25px;
+}
+
+footer{
+    background-color: #00AF1C;
+    color: #fff;
+    height: 40px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer div{
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.izquierda{
+    float: left;
+}
+.derecha{
+    float: right;
+}
+
+
+.margen0{
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+img{
+    margin-left: 15px;
+}
